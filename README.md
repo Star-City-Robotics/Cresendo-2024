@@ -6,6 +6,3 @@ FIRST Robotic Competition 2024 Crescendo competition.
 
 - [Crescendo Season Materials](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system "2024 FRC Documents")
 
-
-test
-
